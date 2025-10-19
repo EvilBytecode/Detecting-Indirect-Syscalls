@@ -6,7 +6,7 @@
 [![Architecture](https://img.shields.io/badge/arch-x64-red.svg)](https://en.wikipedia.org/wiki/X86-64)
 
 Detection of indirect syscall techniques using hardware breakpoints and vectored exception handling.
-
+- shoutout to : https://xacone.github.io/mitigate-indirect-syscalls.html
 ---
 
 ## Overview
